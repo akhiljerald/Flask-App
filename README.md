@@ -5,7 +5,7 @@
 Make sure you have the latest version of Python installed.
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/akhiljerald/Flask-App.git
 ```
 
 ```bash

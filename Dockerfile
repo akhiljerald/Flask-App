@@ -6,6 +6,7 @@ RUN pip install flask-sqlalchemy
 
 
 COPY . .
+EXPOSE 5000
 CMD ["python", "main.py"] 
 # CMD ["python", "main.py", "runserver", "0.0.0.0:5000"] 
 
